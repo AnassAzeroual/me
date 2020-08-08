@@ -10,6 +10,8 @@
 
 [<img align="left" alt="AnassAzeroual | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AnassAzeroual | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="AnassAzeroual | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/skype.svg" />][skype]
+[<img align="left" alt="AnassAzeroual | Loom" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/loom.svg" />][loom]
 
 <br />
 
@@ -61,3 +63,5 @@
 
 [linkedin]: https://www.linkedin.com/in/anass-azeroual
 [facebook]: https://www.facebook.com/anass.azeroual.79?ref=bookmarks
+[skype]: https://join.skype.com/invite/fazTQDmD7Ygf
+[loom]: https://loom.com/share/folder/e9b436ad6b4340c2aca668f789498d44
