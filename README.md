@@ -3,7 +3,7 @@
 ## I'm a FullStack Developer, and Teacher 👨‍🏫!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to create websites, mobile Apps & IT News
 
 ### Connect with me:
@@ -32,7 +32,6 @@
 [<img align="left" alt="Sublimetext 3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/sublimetext.svg" />][linkedin]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 
-<br />
 <br />
 
 ---
