@@ -57,7 +57,7 @@
 
 <!-- --- -->
 
-<img align="left" alt="AnassAzeroual's Github Stats" src="https://github-readme-stats.AnassAzeroual.vercel.app/api?username=AnassAzeroual&show_icons=true&hide_border=true" />
+<img align="left" alt="AnassAzeroual's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
 
 [facebook]: https://www.facebook.com/anass.azeroual.79?ref=bookmarks
 [linkedin]: https://www.linkedin.com/in/anass-azeroual
