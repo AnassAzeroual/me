@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="AnassAzeroual | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AnassAzeroual | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -57,7 +57,7 @@
 
 <!-- --- -->
 
-<img align="left" alt="AnassAzeroual's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnassAzeroual&show_icons=true&theme=radical" />
+<img align="left" alt="AnassAzeroual's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnassAzeroual&show_icons=true&hide_border=true" />
 
-[facebook]: https://www.facebook.com/anass.azeroual.79?ref=bookmarks
 [linkedin]: https://www.linkedin.com/in/anass-azeroual
+[facebook]: https://www.facebook.com/anass.azeroual.79?ref=bookmarks
