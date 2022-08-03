@@ -116,7 +116,7 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
     <a href="https://insomnia.rest" target="_blank" rel="noreferrer">
-        <img src="https://insomnia.rest/images/insomnia-logo.svg" alt="insomnia" width="40" height="40"/>
+        <img src="https://cms-react-testing.cdn.prismic.io/cms-react-testing/fd794b96-f464-432b-b79a-bf99341b2143_insomnia-logo-bug.svg" alt="insomnia" width="40" height="40"/>
     </a>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
