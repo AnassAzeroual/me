@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anassazeroual" alt="anassazeroual" /></a> </p>
 
-- 🔭 I’m currently working on **Mobipharm**
+- 🔭 I'm currently available for a new challenge
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I'm currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnassAzeroual](https://github.com/AnassAzeroual)
 
